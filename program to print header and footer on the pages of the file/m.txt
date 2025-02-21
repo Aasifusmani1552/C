@@ -1,0 +1,10 @@
+This is the second test file.
+It will also contain enough lines to span multiple pages.
+The header should be repeated with each new page.
+A form feed should be used to start a new page.
+The program will ensure that the page breaks and headers work properly.
+Content continues on the second file.
+This is a test to see if the program handles multiple files.
+Let's see if everything is printed correctly.
+The second file should also contain multiple pages worth of content.
+This is the last line in the second file.

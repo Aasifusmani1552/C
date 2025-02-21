@@ -1,0 +1,9 @@
+This is the first test file.
+It contains several lines of text.
+The program should print it across multiple pages.
+Each file should start on a new page with a header.
+The program will check the headers and page breaks.
+This is just an example of file content to test the functionality of the program.
+It should print a certain number of lines before starting a new page.
+Let's check how it behaves with content longer than one page.
+This is the end of the first file.
